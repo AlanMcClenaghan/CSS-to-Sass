@@ -8,7 +8,7 @@
 
   & img {
     max-width: 60%;
-    border: 10px solid white;
+    border: 10px solid $white-border;
     @media #{$brk-narrow} {
       float: right;
       width: 35%;
